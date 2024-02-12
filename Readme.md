@@ -1,6 +1,6 @@
 # Projet de visualisation des données avec Rshiny:  Opter pour un véhicule écologique
 
-### Lien de Visualisation du Projet** : https://mahougnonapp.shinyapps.io/Projet_RShiny_DataViz/
+**Lien de Visualisation du Projet** : https://mahougnonapp.shinyapps.io/Projet_RShiny_DataViz/
 
 La visualisation des données avec RShiny implique la création d'applications web interactives qui permettent aux utilisateurs de visualiser et d'interagir avec les données. Voici quelques éléments clés de la visualisation des données avec RShiny :
 
@@ -32,7 +32,7 @@ Elle établit également des classements pour distinguer les véhicules « les p
 
  ## Objectif du projet 
  L'objectif du projet est de créer un tableau de bord dynamique à travers Rshiny qui permet de visualiser la consommation de caburant, les émission de C02 , les émissions des polluants de l'air des véhicules selon la gamme , la marques , le modèle ou le type d'énergie. Ceci afin  d'ompter pour un véhicule écologique.
- ## Lien de Visualisation du Projet : https://mahougnonapp.shinyapps.io/Projet_RShiny_DataViz/
+ **Lien de Visualisation du Projet** : https://mahougnonapp.shinyapps.io/Projet_RShiny_DataViz/
 
 ![Texte alternatif](C:/Users/ayena/Projet_Shiny_envoi github/image1.png)
 ![Texte alternatif](C:/Users/ayena/Projet_Shiny_envoi github/image2.png)
